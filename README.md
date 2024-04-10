@@ -1,22 +1,17 @@
-# NM_FRIDAYBATCH_FSWD_PROJECT
+# NM_DILANYJOSPHINE_FRIDAYBATCH_FSWD_PROJECT
 
 
-Project implemented by: 
+Name:Dilany Josphine T
 
 
-Name:
+ID:au960221104052
 
 
-ID:
+College name:Arunachala College of Engineering for Women
 
 
-College name:
+username: dilanyjosphine6@gmail.com
 
 
-Login credentials: 
-
-username: root
-
-
-Password: root
+Password: 12345
 
